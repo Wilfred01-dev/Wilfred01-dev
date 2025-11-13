@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Wilfred!👋
+
+👨🏻‍💻 First-year student at UW’s Michael G. Foster School of Business; double majoring in Finance and Information Systems with a minor in Real Estate. <br/>
+</> Currently studying Python fundamentals and developing small, focused projects to build proficiency. (Future goals of learning SQL as well) <br/>
+🏠 Current Project : Building a Home price Prediction project using python and linear regression <br/>
+💰 Interested in applying data analysis to financial decision-making, from dashboards to basic models. <br/>
+📝 Using this portfolio to document progress, lessons learned, and tangible outcomes. <br/>
+💬 Open to feedback and collaboration; committed to continuous learning and professional growth. <br/>
+🚀 Long-term goal: integrate finance and technology to deliver practical, data-driven solutions in the Asset Management and Real Estate Industry. <br/>
+
 
 <!--
 **Wilfred01-dev/Wilfred01-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
